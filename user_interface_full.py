@@ -1,6 +1,4 @@
-# Natalia Antonova, 67443616
-# Project 4 - Othello
-
+# Othello
 '''
 This modeule implements the user interface of the game Othello, which is simplified
 '''
