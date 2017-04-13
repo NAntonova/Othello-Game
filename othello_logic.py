@@ -1,13 +1,8 @@
-# Natalia Antonova, 67443616
-# Project 4 - Othello
-# FULL VERSION
-
-# Natalia Antonova, 67443616
-# Project 4 - Othello
+# Note: FULL means the full version of the game Othello
 
 '''
 This module contains the game logic that underlies a Othello game, which
-is simplified. No user interface is included.
+is a full version. No user interface is included.
 '''
 #=================================================================
 # Classes --------------------------------------------------------
