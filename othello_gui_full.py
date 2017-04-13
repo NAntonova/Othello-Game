@@ -1,7 +1,3 @@
-# Natalia Antonova, 67443616
-# Project 5 - The Width of a Circle (Part 2)
-
-
 import tkinter
 import othello_logic
 
